@@ -1,8 +1,8 @@
-# PortfolioProjects
+# Portfolio-Student-Depression-Project
 
-Data Exploration with Student Depression dataset. 
+Data Exploration with Student Depression Dataset. 
 
--- Looking for relationship between degree and Financial Stress
+-- Looking for the relationship between degree and Financial Stress
 
 -- Finding average sleep score
 
