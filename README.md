@@ -1,4 +1,4 @@
-# Project-Student-Depression
+# PortfolioProjects
 
 Data Exploration with Student Depression dataset. 
 
